@@ -1,4 +1,4 @@
-# SCAR Iceberg EDA
+# SCAR Data EDA
 
 ## Tools 
 ---
@@ -8,7 +8,8 @@
 
 ## What is this repo?
 ---
-  This repo compiles my exploration of the data about Icebergs made available by  SCAR
+  This repo compiles my exploration and use of the data made available by the [SCAR](https://www.scar.org/about-us/members/detailed-information/) regarding topics like:
+  * Icebergs 
   
 ## Setup Documentation
 ---
